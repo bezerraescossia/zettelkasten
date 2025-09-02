@@ -76,15 +76,15 @@ Um crescimento em volume de tráfego é fácil de imaginar... Imagine que você 
 Para exemplificar o crescimento em quantidade de modelos, voltemos a situação hipotética anterior. Imagine agora que após escalar seu sistema de ML para atender a toda a empresa, a diretoria fez a requisição para que criasse vários outros modelos, como: previsão de churn, recomendação de produtos e análise de sentimentos. Nesse cenário, a infraestrutura do sistema precisará ser capaz de suportar a criação e o treinamento de múltiplos modelos simultaneamente, o que pode exigir uma arquitetura mais robusta e escalável.
 Para todos esses cenários, é importante considerar que o sistema pode vir a ser escalável no futuro e portanto é necessário possuir estratégias para que isso aconteça.
 #TODO: Escrever estratégias de escalabilidades
-## 3.2.1. Manutenibilidade
+## 3.3. Manutenibilidade
 O sistema de ML deve ser projetado de uma maneira que facilite o entendimento, operação e colaboração de todos os envolvidos do projeto. Apesar do sistema de ML ser normalmente desenvolvido pelo cientista de dados, profissionais diferentes podem acessar e colaborar, como o *Subject Matter Experts* (SMEs), engenheiros de DevOps, engenheiros de dados, desenvolvedores, arquitetos de software, *project managers* e outros. Portanto, é essencial seguir boas práticas de desenvolvimento, manter o código limpo e documentado, versionar código, dados e artefatos, além de muitas outras estratégias de manutenibilidade.
 #TODO: Traçar estratégias de manutenibilidade.
-## 3.2.2. Adaptabilidade
+## 3.4. Adaptabilidade
 Sistemas de ML devem ser adaptáveis a mudanças no ambiente, dados e requisitos do negócio. A adaptabilidade é crucial para garantir que o sistema continue a fornecer valor ao longo do tempo, mesmo quando as condições mudam.
 Um exemplo de adaptabilidade em sistemas de ML é a capacidade de ajustar os modelos de acordo com novas informações ou mudanças nos dados. Por exemplo, se um modelo de previsão de vendas foi treinado com dados de um determinado período, mas as condições de mercado mudaram significativamente, o modelo deve ser capaz de se adaptar a essas novas condições para continuar a fornecer previsões precisas.
 Para tal é importante implementar estratégias de adaptabilidade.
 #TODO: escrever estratégias de adaptabilidade.
-# 3.3. Referências
+# 4. Referências
 [^1]: [Projetando Sistemas de Machine Learning: processos iterativos para aplicações prontas para produção](https://www.amazon.com.br/Projetando-Sistemas-Machine-Learning-Interativo/dp/8550819670/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1AIQORVVYH35T&dib=eyJ2IjoiMSJ9.1fFwyO9dsVdtFWaK9KCgLTADtIptUC5Zcjl-R2I5v1TTnl7fcap_sju1Cjz4BOKBfKvKfV5unN-4CRjZy5PJrDm9JSfu6l8nX3Ws9itlpXw.erehvzDQ6xVeakGSqjSA1TgViauZyT7vi9QCSvcfAH4&dib_tag=se&keywords=projetando+sistemas+de+machine+learning&qid=1756137669&sprefix=projetando+sistemas%2Caps%2C259&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
 [^2]: [Python Data Science: Unsupervised Machine Learning](https://ibm-learning.udemy.com/course/data-science-in-python-unsupervised-learning/learn/lecture/43380936#questions/22450621)
 
