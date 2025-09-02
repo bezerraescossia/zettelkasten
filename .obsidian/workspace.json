@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "3a1980f475ad6639",
+    "type": "split",
+    "children": [
+      {
+        "id": "3872387100efe35c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "412fe8e90e9b9e4f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f9fd9e2ded544c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizado de Máquina.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Aprendizado de Máquina"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a60885771df97636",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1db32c0827c6b39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cef89bc3ee5cdae1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2e3b6872697a724a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "fbf712dca970b343",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fc318a35e07b276",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cf1f70f773829e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a9e708ffe406f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Aprendizado de Máquina.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Aprendizado de Máquina"
+            }
+          },
+          {
+            "id": "3c294b43c1728d39",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aprendizado de Máquina.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aprendizado de Máquina"
+            }
+          },
+          {
+            "id": "30c1eb2e0ad99692",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Aprendizado de Máquina.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Aprendizado de Máquina"
+            }
+          },
+          {
+            "id": "281777c6edd16d06",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "094d3c353f00e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f9fd9e2ded544c6b",
+  "lastOpenFiles": [
+    "Ciência de Dados.md",
+    "Conjunto Convexo.md",
+    "Engenharia de Dados.md",
+    "Função Objetivo.md",
+    "KMeans.md",
+    "ML não Supervisionado.md",
+    "ML Supervisionado.md",
+    "Os Quatro Estágios da Competência.md",
+    "Protocolo Aprendizado de Máquina.md",
+    "Aprendizado de Máquina.md",
+    "data science.machine learning.boas práticas.md",
+    "Templates/default.md",
+    "Tipos de ML.md",
+    "Delimitando um Problema de ML.md",
+    "aprendizado-de-maquina.md",
+    "a.md",
+    "Tipa.md",
+    "Untitled 1.md",
+    "aprendizado de máquina.md",
+    "data science.machine learning.conceitos.função objetivo.md",
+    "Clusterização.md",
+    "Templates",
+    "Attachments/Templates/default.md",
+    "Attachments/Templates",
+    "snippets/centralize_images.css",
+    "snippets",
+    "aprendizado de máquinas.md",
+    "Conjuntos Matemáticos.md",
+    "Untitled.base",
+    "Attachments/Pasted image 20250811192653.png",
+    "Attachments/Pasted image 20250811192452.png",
+    "Attachments/Pasted image 20250811192428.png",
+    "Attachments/Pasted image 20250811191957.png",
+    "Attachments/Pasted image 20250811191810.png",
+    "Attachments/Pasted image 20250811191413.png",
+    "Attachments/Pasted image 20250811191353.png",
+    "Attachments/Pasted image 20250811185853.png",
+    "Attachments/Pasted image 20250811165501.png",
+    "Attachments",
+    "Pasted image 20250811164940.png",
+    "Excalidraw/Drawing 2025-08-11 16.43.49.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-11 16.42.52.excalidraw.md",
+    "Excalidraw",
+    "Scripts/last_id.txt",
+    "Scripts/next_id.js",
+    "Scripts/New Text Document.txt"
+  ]
+}

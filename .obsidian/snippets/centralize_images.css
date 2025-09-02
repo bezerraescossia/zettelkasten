@@ -1,0 +1,61 @@
+/* @settings
+name: Images & Mermaid Spacing
+id: images-mermaid-spacing
+settings:
+  - id: image-spacing-before
+    title: Espaçamento antes da imagem
+    type: variable-number
+    default: 1
+    format: em
+  - id: image-spacing-after
+    title: Espaçamento depois da imagem
+    type: variable-number
+    default: 1
+    format: em
+  - id: mermaid-spacing-before
+    title: Espaçamento antes do diagrama Mermaid
+    type: variable-number
+    default: 1
+    format: em
+  - id: mermaid-spacing-after
+    title: Espaçamento depois do diagrama Mermaid
+    type: variable-number
+    default: 1
+    format: em
+*/
+
+/* === Centralizar e aplicar espaçamento em imagens no preview === */
+.markdown-preview-view img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--image-spacing-before, 1em) !important;
+  margin-bottom: var(--image-spacing-after, 1em) !important;
+}
+
+/* === Centralizar e aplicar espaçamento em Mermaid (preview) === */
+.markdown-preview-view .mermaid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--mermaid-spacing-before, 1em) !important;
+  margin-bottom: var(--mermaid-spacing-after, 1em) !important;
+}
+
+/* === Live Preview: imagens === */
+.markdown-source-view.is-live-preview img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--image-spacing-before, 1em) !important;
+  margin-bottom: var(--image-spacing-after, 1em) !important;
+}
+
+/* === Live Preview: Mermaid === */
+.markdown-source-view.is-live-preview .mermaid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: var(--mermaid-spacing-before, 1em) !important;
+  margin-bottom: var(--mermaid-spacing-after, 1em) !important;
+}

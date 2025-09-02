@@ -1,0 +1,12 @@
+{
+  "heading-spacing@@heading-spacing-after": 1.2,
+  "paragraph-spacing@@paragraph-spacing-editing": 1,
+  "paragraph-list-spacing@@paragraph-spacing-editing": 0.5,
+  "list-spacing@@list-spacing-reading": 0,
+  "list-spacing@@list-spacing-editing": 0,
+  "images-mermaid-spacing@@mermaid-spacing-before": 2,
+  "images-mermaid-spacing@@mermaid-spacing-after": 2,
+  "images-mermaid-spacing@@image-spacing-before": 2,
+  "images-mermaid-spacing@@image-spacing-after": 2,
+  "quotes-style@@quote-padding": 1
+}

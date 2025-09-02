@@ -1,0 +1,28 @@
+/* @settings
+name: List Spacing
+id: list-spacing
+settings:
+  - id: list-spacing-reading
+    title: Espaçamento entre itens de lista (Reading Mode)
+    type: variable-number
+    default: 0.5
+    format: em
+  - id: list-spacing-editing
+    title: Espaçamento entre itens de lista (Editing Mode)
+    type: variable-number
+    default: 0.3
+    format: em
+*/
+
+/* === List spacing in READING MODE (preview) === */
+.markdown-preview-view ul > li,
+.markdown-preview-view ol > li {
+  padding-top: var(--list-spacing-reading, 0.5em) !important;
+  padding-bottom: var(--list-spacing-reading, 0.5em) !important;
+}
+
+/* === List spacing in EDITING MODE (live editor) === */
+.mod-cm6 .HyperMD-list-line.cm-line {
+  padding-top: var(--list-spacing-editing, 0.3em) !important;
+  padding-bottom: var(--list-spacing-editing, 0.3em) !important;
+}

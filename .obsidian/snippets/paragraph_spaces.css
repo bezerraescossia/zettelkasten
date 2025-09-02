@@ -1,0 +1,16 @@
+/* @settings
+name: Paragraph & List Spacing
+id: paragraph-list-spacing
+settings:
+  - id: paragraph-spacing-editing
+    title: Espaçamento entre parágrafos (Editing Mode)
+    type: variable-number
+    default: 0.5
+    format: em
+*/
+
+/* === Paragraph spacing in EDITING MODE (live editor) === */
+.markdown-source-view.is-live-preview .cm-line {
+  padding-bottom: var(--paragraph-spacing-editing, 0.5em);
+  padding-top: var(--paragraph-spacing-editing, 0.5em); /* adiciona espaço antes da linha */
+}

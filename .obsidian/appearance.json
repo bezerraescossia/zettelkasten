@@ -1,0 +1,11 @@
+{
+  "theme": "moonstone",
+  "enabledCssSnippets": [
+    "centralize_images",
+    "paragraph_spaces",
+    "list_spaces",
+    "citation"
+  ],
+  "baseFontSizeAction": false,
+  "cssTheme": ""
+}
