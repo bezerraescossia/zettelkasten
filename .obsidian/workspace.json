@@ -20,31 +20,37 @@
             }
           },
           {
-            "id": "f9fd9e2ded544c6b",
+            "id": "7917daf8bd531f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Ciência de Dados.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizado de Máquina"
+              "title": "Ciência de Dados"
+            }
+          },
+          {
+            "id": "a10c8e967f3e7a1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolo Aprendizado de Máquina.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Protocolo Aprendizado de Máquina"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -76,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +90,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Procurar"
+              "title": "Search"
             }
           },
           {
@@ -95,6 +101,22 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "852b60d6b8321aa3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "094d3c353f00e9bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
@@ -117,32 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Protocolo Aprendizado de Máquina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aprendizado de Máquina"
-            }
-          },
-          {
-            "id": "3c294b43c1728d39",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Aprendizado de Máquina.md",
-                "collapseAll": true,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Aprendizado de Máquina"
+              "title": "Outline of Protocolo Aprendizado de Máquina"
             }
           },
           {
@@ -160,6 +163,25 @@
             }
           },
           {
+            "id": "483ea68ea2642798",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Protocolo Aprendizado de Máquina.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Protocolo Aprendizado de Máquina"
+            }
+          },
+          {
             "id": "281777c6edd16d06",
             "type": "leaf",
             "state": {
@@ -173,19 +195,8 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
-          {
-            "id": "094d3c353f00e9bf",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -199,21 +210,23 @@
       "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "f9fd9e2ded544c6b",
+  "active": "a10c8e967f3e7a1c",
   "lastOpenFiles": [
-    "Ciência de Dados.md",
-    "Conjunto Convexo.md",
-    "Engenharia de Dados.md",
-    "Função Objetivo.md",
-    "KMeans.md",
-    "ML não Supervisionado.md",
-    "ML Supervisionado.md",
     "Os Quatro Estágios da Competência.md",
-    "Protocolo Aprendizado de Máquina.md",
+    "ML Supervisionado.md",
+    "ML não Supervisionado.md",
+    "KMeans.md",
+    "Função Objetivo.md",
+    "Engenharia de Dados.md",
+    "Conjunto Convexo.md",
+    "Ciência de Dados.md",
     "Aprendizado de Máquina.md",
+    "Protocolo Aprendizado de Máquina.md",
+    "Untitled.base",
     "data science.machine learning.boas práticas.md",
     "Templates/default.md",
     "Tipos de ML.md",
@@ -232,7 +245,6 @@
     "snippets",
     "aprendizado de máquinas.md",
     "Conjuntos Matemáticos.md",
-    "Untitled.base",
     "Attachments/Pasted image 20250811192653.png",
     "Attachments/Pasted image 20250811192452.png",
     "Attachments/Pasted image 20250811192428.png",
@@ -245,7 +257,6 @@
     "Attachments",
     "Pasted image 20250811164940.png",
     "Excalidraw/Drawing 2025-08-11 16.43.49.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-11 16.42.52.excalidraw.md",
     "Excalidraw",
     "Scripts/last_id.txt",
     "Scripts/next_id.js",

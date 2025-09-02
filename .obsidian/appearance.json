@@ -1,5 +1,5 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "centralize_images",
     "paragraph_spaces",
@@ -7,5 +7,5 @@
     "citation"
   ],
   "baseFontSizeAction": false,
-  "cssTheme": ""
+  "cssTheme": "Minimal"
 }

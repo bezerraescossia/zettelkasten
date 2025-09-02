@@ -8,6 +8,7 @@ aliases:
   - protocolo de machine learning
 tags:
 ---
+# 1. Introdução
 Desenvolver um projeto de ML é um processo **iterativo** e **interminável**. Iterativo pois possui um passo-a-passo não sequencial e não linear, que se necessário retorna as etapas anteriormente já realizadas, ou ainda avança para etapas futuras conforme a necessidade. E é interminável, pois é um processo que mesmo após colocado em produção, exige monitoramento e aprendizado contínuo.
 Existem várias metodologias para se implementar um sistema de ML, dentre os mais conhecidos, o CRISP-DM ou o KDD. Entretanto, de uma maneira holística podemos resumidamente falar que o processo de desenvolvimento de um sistema de ML, passa pelos seguintes estágios:
 1. Escopo do Projeto
@@ -16,7 +17,7 @@ Existem várias metodologias para se implementar um sistema de ML, dentre os mai
 4. Implementação
 5. Monitoramento e Aprendizagem Contínua
 6. Análise de Negócios
-## Escopo do Projeto
+# 2. Escopo do Projeto
 É nessa etapa que se define metas, objetivos, estimasse alocação de recursos financeiros e humanos, monta-se uma equipe, defini-se um plano de ação com timelines e outras atividades dessa natureza. Segue o *checklist*:
 - [ ] Delimite o problema
 - [ ] Identifique a natureza do problema
@@ -24,7 +25,7 @@ Existem várias metodologias para se implementar um sistema de ML, dentre os mai
 - [ ] Estime os recursos necessários
 - [ ] Monte a equipe do projeto
 - [ ] Crie um plano de ação com timelines
-### Delimitando o Problema
+## 2.1. Delimitando o Problema
 De uma maneira geral, um problema bem delimitado é um problema que tem o seu escopo claramente definido. Dessa forma, para os problemas de ML, ele será bem delimitado se for bem definido em termos de entradas, saídas e [[função objetivo]].
 Ou seja, para que um problema de ML seja bem definido precisamos saber claramente quais são as entradas (dados), as saídas (resultados) e a [[função objetivo]] (o que estamos tentando otimizar ou prever).
 E uma das primeiras atividades ao delimitar um problema é traduzir um requisito de negócio em um requisito de ML. Isso envolve entender o que o negócio precisa e como isso se traduz em um problema que pode ser resolvido com técnicas de [[aprendizado de máquina]]. Imagine a seguinte situação:
@@ -35,5 +36,5 @@ Nesse contexto, chegamos enfim a um problema de ML bem delimitado: "classificar 
 - Entrada: solicitação do cliente
 - Saída: setor de atendimento ao cliente
 - [[função objetivo]]: diminuir a diferença entre o setor de atendimento ao cliente previsto e o setor de atendimento ao cliente real.
-## Referências
+# 3. Referências
 1. Projetando Sistemas de [[Machine Learning]] - Chip Huyen

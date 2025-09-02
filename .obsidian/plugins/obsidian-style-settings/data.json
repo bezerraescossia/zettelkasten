@@ -8,5 +8,8 @@
   "images-mermaid-spacing@@mermaid-spacing-after": 2,
   "images-mermaid-spacing@@image-spacing-before": 2,
   "images-mermaid-spacing@@image-spacing-after": 2,
-  "quotes-style@@quote-padding": 1
+  "quotes-style@@quote-padding": 1,
+  "minimal-style@@h2-size": "1.25em",
+  "minimal-style@@h1-size": "1.5em",
+  "minimal-style@@h3-size": "1.125em"
 }
