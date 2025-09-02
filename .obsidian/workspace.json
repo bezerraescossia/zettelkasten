@@ -168,21 +168,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
-      "templates:Insert template": true,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "zk-prefixer:Create new unique note": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cef89bc3ee5cdae1",
+  "active": "412fe8e90e9b9e4f",
   "lastOpenFiles": [
     "KMeans.md",
     "Untitled.base",
