@@ -20,18 +20,18 @@
             }
           },
           {
-            "id": "9f4091482e555557",
+            "id": "f35072504ddb85ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Formatos de Dados.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizado de Máquina"
+              "title": "Formatos de Dados"
             }
           }
         ],
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Formatos de Dados.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aprendizado de Máquina"
+              "title": "Outline of Formatos de Dados"
             }
           },
           {
@@ -139,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Formatos de Dados.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Aprendizado de Máquina"
+              "title": "Outgoing links from Formatos de Dados"
             }
           },
           {
@@ -153,17 +153,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Formatos de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aprendizado de Máquina"
+              "title": "Backlinks for Formatos de Dados"
             }
           },
           {
@@ -189,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -196,20 +197,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f4091482e555557",
+  "active": "d3a9e708ffe406f0",
   "lastOpenFiles": [
-    "Ciência de Dados.md",
-    "ML não Supervisionado.md",
-    "ML Supervisionado.md",
-    "Os Quatro Estágios da Competência.md",
-    "Protocolo Aprendizado de Máquina.md",
+    "Fontes de Dados.md",
+    "Data Engineering.md",
     "Engenharia de Dados.md",
+    "Protocolo Aprendizado de Máquina.md",
+    "Função Objetivo.md",
+    "ML Supervisionado.md",
+    "ML não Supervisionado.md",
+    "ML.md",
+    "Os Quatro Estágios da Competência.md",
     "Aprendizado de Máquina.md",
     "KMeans.md",
+    "Ciência de Dados.md",
     "Untitled.base",
-    "Fontes de Dados.md",
     "Formatos de Dados.md",
-    "Função Objetivo.md",
     "Conjunto Convexo.md",
     "data science.machine learning.boas práticas.md",
     "Templates/default.md",
@@ -227,7 +230,6 @@
     "Attachments/Templates",
     "snippets/centralize_images.css",
     "snippets",
-    "aprendizado de máquinas.md",
     "Attachments/Pasted image 20250811192653.png",
     "Attachments/Pasted image 20250811192452.png",
     "Attachments/Pasted image 20250811192428.png",
