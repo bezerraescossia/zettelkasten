@@ -33,9 +33,24 @@
               "icon": "lucide-file",
               "title": "Formatos de Dados"
             }
+          },
+          {
+            "id": "966cca434758d46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Protocolo para Reuniões.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Protocolo para Reuniões"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -124,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formatos de Dados.md",
+                "file": "Protocolo para Reuniões.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Formatos de Dados"
+              "title": "Outline of Protocolo para Reuniões"
             }
           },
           {
@@ -189,7 +204,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -197,22 +211,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3a9e708ffe406f0",
+  "active": "966cca434758d46e",
   "lastOpenFiles": [
+    "Protocolo Aprendizado de Máquina.md",
+    "Os Quatro Estágios da Competência.md",
+    "Protocolo para Reuniões.md",
+    "Formatos de Dados.md",
     "Fontes de Dados.md",
     "Data Engineering.md",
     "Engenharia de Dados.md",
-    "Protocolo Aprendizado de Máquina.md",
     "Função Objetivo.md",
     "ML Supervisionado.md",
     "ML não Supervisionado.md",
     "ML.md",
-    "Os Quatro Estágios da Competência.md",
     "Aprendizado de Máquina.md",
     "KMeans.md",
     "Ciência de Dados.md",
     "Untitled.base",
-    "Formatos de Dados.md",
     "Conjunto Convexo.md",
     "data science.machine learning.boas práticas.md",
     "Templates/default.md",
@@ -226,7 +241,6 @@
     "data science.machine learning.conceitos.função objetivo.md",
     "Clusterização.md",
     "Templates",
-    "Attachments/Templates/default.md",
     "Attachments/Templates",
     "snippets/centralize_images.css",
     "snippets",
