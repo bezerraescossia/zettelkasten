@@ -3,10 +3,10 @@ id: 1756828177
 created: 2025-09-02 12:49:37
 updated: 2025-09-02 12:49:37
 aliases:
-  - P.A.M
-  - protocolo de aprendizado de máquina
-  - protocolo de machine learning
+  - PPM
 tags:
+  - protocolo
+  - machine-learning
 ---
 # 1. Introdução
 Desenvolver um projeto de [[Aprendizado de Máquina|ML]] é um processo **iterativo** e **interminável**. Iterativo pois possui um passo-a-passo não sequencial e não linear, que se necessário retorna as etapas anteriormente já realizadas, ou ainda avança para etapas futuras conforme a necessidade. E é interminável, pois é um processo que mesmo após colocado em produção, exige monitoramento e aprendizado contínuo.
