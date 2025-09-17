@@ -59,4 +59,4 @@ Apesar disso, é importante notar que outras técnicas como *clustering*, regres
 # 7. Análise de negócios
 #TODO
 # 8. Referências
-1. Projetando Sistemas de [[Machine Learning]] - Chip Huyen
+1. Projetando Sistemas de [[Aprendizado de Máquina|machine learning]] - Chip Huyen
