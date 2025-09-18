@@ -14,6 +14,7 @@ place(recognize)::to recognize someone or something because of memory or past ex
 # 2. Nouns
 migraine::severe continuous pain in the head, often with vomiting and difficulty in seeing: "Do you suffer from migraines?", "A migraine headache."
 <!--SR:!2025-09-18,3,250-->
+rock bottom::the lowest possible level: "Confidence in the government is at rock bottom.", "Prices have reached rock bottom."
 # 3. Phrasal Verbs
 come into (money)::If someone comes into money, property, or a title, they receive it as a result of the death of a relation: "She came into a bit of money when her grandfather died."
 <!--SR:!2025-09-18,3,250-->
