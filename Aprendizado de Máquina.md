@@ -4,6 +4,7 @@ created: 2025-08-28 15:05:50
 updated: 2025-08-28 15:05:50
 aliases:
   - machine learning
+  - ml
 tags:
 ---
 # 1. Definição

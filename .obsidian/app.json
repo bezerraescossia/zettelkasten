@@ -7,5 +7,6 @@
   },
   "promptDelete": false,
   "attachmentFolderPath": "Attachments",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true
 }
