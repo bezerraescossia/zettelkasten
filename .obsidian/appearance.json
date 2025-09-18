@@ -4,7 +4,8 @@
     "centralize_images",
     "paragraph_spaces",
     "list_spaces",
-    "citation"
+    "citation",
+    "tables"
   ],
   "baseFontSizeAction": false,
   "cssTheme": "Minimal"
