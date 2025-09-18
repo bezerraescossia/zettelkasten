@@ -20,18 +20,18 @@
             }
           },
           {
-            "id": "9f4091482e555557",
+            "id": "47fcab259a9df7a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aprendizado de Máquina.md",
+                "file": "Conjunto Convexo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizado de Máquina"
+              "title": "Conjunto Convexo"
             }
           }
         ],
@@ -67,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#matemática",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,13 +124,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aprendizado de Máquina.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aprendizado de Máquina"
+              "title": "Outline"
             }
           },
           {
@@ -153,7 +152,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aprendizado de Máquina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aprendizado de Máquina"
+              "title": "Backlinks"
             }
           },
           {
@@ -173,7 +171,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -181,11 +179,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 390.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,21 +196,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f4091482e555557",
+  "active": "47fcab259a9df7a4",
   "lastOpenFiles": [
-    "Ciência de Dados.md",
-    "ML não Supervisionado.md",
-    "ML Supervisionado.md",
-    "Os Quatro Estágios da Competência.md",
+    "Conjunto Convexo.md",
+    "Fontes de Dados.md",
     "Protocolo Aprendizado de Máquina.md",
-    "Engenharia de Dados.md",
-    "Aprendizado de Máquina.md",
+    "ML Supervisionado.md",
+    "ML não Supervisionado.md",
     "KMeans.md",
     "Untitled.base",
-    "Fontes de Dados.md",
+    "Aprendizado de Máquina.md",
     "Formatos de Dados.md",
+    "Os Quatro Estágios da Competência.md",
     "Função Objetivo.md",
-    "Conjunto Convexo.md",
+    "Engenharia de Dados.md",
+    "Ciência de Dados.md",
     "data science.machine learning.boas práticas.md",
     "Templates/default.md",
     "Tipos de ML.md",
