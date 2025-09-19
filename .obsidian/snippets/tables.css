@@ -1,0 +1,8 @@
+.cm-embed-block.cm-table-widget.markdown-rendered {
+    margin: 0;
+    padding: 0;
+}
+
+.cm-line:has(+ .cm-embed-block.cm-table-widget) br {
+    display: none;
+}
